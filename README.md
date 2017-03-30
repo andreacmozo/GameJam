@@ -16,6 +16,8 @@ Target Audience
 
 My target audience are young girls ages 10 and up. This website is designed to appeal to all girls from all around the world.
 
+What problem does it solve?Don't forget to specify that.
+
 User Stories
 
 Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.
