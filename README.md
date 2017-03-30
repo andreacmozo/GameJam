@@ -54,6 +54,8 @@ Outline how you will check that the goals for your site have been met
 
 Make sure your program does something to measure the consider assessments as a part of your program. Here are a couple.
 
+Definitely add some assessment - luckily game-designer skills are easily measurable.
+
 Pre assessments
 Formative assessments
 Scope
