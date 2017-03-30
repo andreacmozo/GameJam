@@ -67,7 +67,6 @@ Interaction design and information architecture
 Skeleton
 
 Interface, navigation, information design (You'll provide wireframes here)
+comment:I really like the wiaframe of the main page. You ask readers essential questions that help them refine their understanding of what gaming is and who can be a gamer and lead them right into "P.A.C" button, not giving them a chance to get lost or lose interest on their way. It's very a very smart and effective way.
 
 ![Alt text](/assets/wireframe_index.png)
-
-comment:I really like the wiaframe of the main page. You ask readers essential questions that help them refine their understanding of what gaming is and who can be a gamer and lead them right into "P.A.C" button, not giving them a chance to get lost or lose interest on their way. It's very a very smart and effective way.
