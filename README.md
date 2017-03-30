@@ -6,6 +6,7 @@ Topic
 
 This site focuses on game design and development. This site applies to broader fields, mainly computer science education and the gaming industry.
 
+
 Problem
 
 Entertainment Software Association’s Essential Facts About the Computer and Video Game Industry found that 44% of women are game players but only 12% of women make-up the gaming industry. Female game designers still do not have a voice in this mega billion dollar gaming industry. Our society needs more female game designers and developers to create different perspectives and tell different stories. It’s not only the gaming industry that needs to change, it’s all STEM related fields. Only 25% of women who were in the computing workforce in 2015 (NCWIT, By the Numbers), 5% Of African Americans and Latinos make up the Technology workforce in 2015 (Ethnic Diversity in Tech), and 1% of Hispanic women were in the computing workforce in 2015 (NCWIT, By the Numbers).
@@ -15,6 +16,9 @@ Game design is the gateway to learning essential 21st century skills like story-
 Target Audience
 
 My target audience are young girls ages 10 and up. This website is designed to appeal to all girls from all around the world.
+
+
+That is a very broad audience- any chance you want to start smaller? I feel like it is going to be very hard to carry out. Any ideas how to make it applicable to such a big audience?
 
 User Stories
 
