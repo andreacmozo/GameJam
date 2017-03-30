@@ -16,6 +16,8 @@ Target Audience
 
 My target audience are young girls ages 10 and up. This website is designed to appeal to all girls from all around the world.
 
+That is a very broad audience- any chance you want to start smaller? I feel like it is going to be very hard to carry out. Any ideas how to make it applicable to such a big audience? 
+
 What problem does it solve?Don't forget to specify that.
 
 User Stories
