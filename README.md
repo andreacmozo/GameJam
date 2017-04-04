@@ -14,11 +14,9 @@ Game design is the gateway to learning essential 21st century skills like story-
 
 # Target Audience
 
-The target audience of this website are children ages 10 and up. This website is designed to appeal to girls to encourage their involvement in technology, product design and development
+The target audience of this website are children ages 10 and up, specifically girls. This website is designed to appeal to girls to encourage their involvement in technology, product design and development.
 
 # User Stories
-
-Outline 2-3 user stories. Describe how they find out, engage and come back to your site. Provide rationale.
 
 ## User Story 1:
 
@@ -90,4 +88,4 @@ After this experience, I feel like I went from web development and product devel
 
 Building webpages takes time, a keen eye for detail, and patience. One experience in particular has really struck me and I find this is the most important part about web developing, which is layout. I think one of the most difficult skills to master is laying elements on a web page the way you designed them to be. Creating the mock-ups is simple, its actually taking the elements that you created and organizing them on your webpage using CSS. Understanding which properties to define to fix the layout issue was the most difficult to understand. Not to mention, the breaking points. It was very frustrating and time consuming. I must have spent hours using trial and error to figure out the issue and fully understand how columns work in Bootstrap.
 
-Lastly, building a product is not a one person show. It is difficult for one person to play every single role. I understand and value the importance of having a whole team to build a product.
+Lastly, building a product is not a one person show. It is difficult for one person to play every single role. I understand and value the importance of having a whole team to build a product.T
