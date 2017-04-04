@@ -84,6 +84,6 @@ The scope of this project is large. The scope of the initial version of code Gam
 
 Comment: I really like the wireframe of the main page. You ask readers essential questions that help them refine their understanding of what gaming is and who can be a gamer and lead them right into "P.A.C" button, not giving them a chance to get lost or lose interest on their way. It's very a very smart and effective way.
 
-#Reflection
+## Reflection
 
 After this experience, I came away with a few great take-aways. It is a very difficult process to ideate, design, and build a program.  I've learned that you can't build something first, you need to go through the 5 S's, which are Strategy, Scope, Structure, Skeleton, and Surface. Without this plan, what you have ideated in the beginning completely changes when you go from Skeleton to Strategy. This process is very time-consuming and if it's not planned properly it means that ROI is very poor, which was my case. I only built one HTML page of the 20 I would ideally have wanted to build. Building webpages takes time, a keen eye for detail, and patience. There are so many factors to take into account when trying to build a well-designed program and make money from it! It is difficult for one person to play every single role. I see the importance of having a whole team to build a product. Many heads are better than one!
