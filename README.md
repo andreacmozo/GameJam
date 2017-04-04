@@ -6,15 +6,22 @@ Topic
 
 This site focuses on game design and development. This site applies to broader fields, mainly computer science education and the gaming industry.
 
+Is there anyone in particular you are focusing on? I would put this here in your topic! Bring up women early on and explain why you chose them.
+
 Problem
 
 Entertainment Software Association’s Essential Facts About the Computer and Video Game Industry found that 44% of women are game players but only 12% of women make-up the gaming industry. Female game designers still do not have a voice in this mega billion dollar gaming industry. Our society needs more female game designers and developers to create different perspectives and tell different stories. It’s not only the gaming industry that needs to change, it’s all STEM related fields. Only 25% of women who were in the computing workforce in 2015 (NCWIT, By the Numbers), 5% Of African Americans and Latinos make up the Technology workforce in 2015 (Ethnic Diversity in Tech), and 1% of Hispanic women were in the computing workforce in 2015 (NCWIT, By the Numbers).
 
+[comment]:<> (Why do only 12% of women make up the gaming industry)
+
 Game design is the gateway to learning essential 21st century skills like story-telling, collaboration, critical thinking skills, coding, and problem-solving, to only name a few. Research shows that children who play video games are much more likely to want to learn software engineering and computer programming than children who do not (Egenfeldt-Nielsen, 2006; Overmars, 2004). This site encourages girls and women to play and create games. Young girls and women have a right to code, design, and create games. This site will be a learning resource for girls and women to learn about game design and development.
 
+[comment]:<> (How will your website inspire young girls to want to code? How interactive will your site be?)
 Target Audience
 
 My target audience are young girls ages 10 and up. This website is designed to appeal to all girls from all around the world.
+
+[comment]:<> (What made you pick ten years and up? Could female coders under 10 also benefit?)
 
 User Stories
 
@@ -31,6 +38,10 @@ Who are you building the feature for? What type of user?
 What are you building and what will it accomplish?
 
 What kind of engagement and value will the feature/website bring for the user? What does it accomplish?
+
+
+Why type of users are you going to use for your user stories?
+
 
 User Story 1:
 
@@ -54,7 +65,11 @@ Outline how you will check that the goals for your site have been met
 
 Make sure your program does something to measure the consider assessments as a part of your program. Here are a couple.
 
-Pre assessments
+Pre assessments: Could you have a pre-assessment to gather how much coding a user already knows?
+
+What could you do with the pre-assessment? Would there be multiple levels?
+
+
 Formative assessments
 Scope
 
@@ -70,4 +85,4 @@ Interface, navigation, information design (You'll provide wireframes here)
 
 ![Alt text](/assets/wireframe_index.png)
 
-comment:I really like the wiaframe of the main page. You ask readers essential questions that help them refine their understanding of what gaming is and who can be a gamer and lead them right into "P.A.C" button, not giving them a chance to get lost or lose interest on their way. It's very a very smart and effective way.
+[comment]:<> (I really like the wiaframe of the main page. You ask readers essential questions that help them refine their understanding of what gaming is and who can be a gamer and lead them right into "P.A.C" button, not giving them a chance to get lost or lose interest on their way. It's very a very smart and effective way.)
