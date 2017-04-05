@@ -6,6 +6,7 @@ Write a design document where you explain your project. You should clearly expla
 
 This website focuses on game design and game development of digital games, which includes a deeper understanding of technology like coding, graphics, animation, and design. This site applies to broader fields, mainly computer science education, technology accessibility to women and girls, and gaming industry. This website would essentially build a novice user in the game world to become immersed in the world of gaming and technology. It can be used as a resource for women and girls to build their knowledge of games and eventually create games to showcase their technical skills and showcase their final products on our website.  
 
+=======
 # Problem
 
 Entertainment Software Association’s Essential Facts About the Computer and Video Game Industry found that 44% of women are game players but only 12% of women make-up the gaming industry. Female game designers still do not have a voice in this mega billion dollar gaming industry. Our society needs more female game designers and developers to create different perspectives and tell different stories. It’s not only the gaming industry that needs to change, it’s all STEM related fields. Only 25% of women who were in the computing workforce in 2015 (NCWIT, By the Numbers), 5% Of African Americans and Latinos make up the Technology workforce in 2015 (Ethnic Diversity in Tech), and 1% of Hispanic women were in the computing workforce in 2015 (NCWIT, By the Numbers).
@@ -14,7 +15,7 @@ Game design is the gateway to learning essential 21st century skills like story-
 
 # Target Audience
 
-The target audience of this website are children ages 10 and up, specifically girls. This website is designed to appeal to girls to encourage their involvement in technology, product design and development.
+The target audience of this website are children ages 10 to 13, specifically girls. This website is designed to appeal to girls to encourage their involvement in technology, product design and development.
 
 # User Stories
 
