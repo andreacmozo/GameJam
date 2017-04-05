@@ -1,0 +1,158 @@
+body, h2 {
+  background-color: #FFFF;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h2, h3 {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 25px;
+}
+
+p {
+  font-size: 20px;
+}
+
+h4 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.jumbotron {
+  font-family: 'Press Start 2P', cursive;
+  margin-top: 10px;
+  background-color: #405681;
+  color: white;
+}
+
+.paccontainer {
+  margin-top: 40px;
+}
+
+.btn {
+  background: #F13C20;
+  color: white;
+  font-size: 20px;
+}
+
+.btn:hover {
+  color: #405681;
+}
+
+.btn-group1 {
+  float: right;
+  margin-top: 15px;
+  margin-right: 20px;
+}
+
+.btn-group-justified>.btn-group .btn {
+  width: 94%;
+  float: center;
+  height: 100px;
+  font-size: 20px;
+  margin-left: 15px;
+  margin-right: 10px;
+  font-family: 'Press Start 2P', cursive;
+}
+
+.gallery {
+  text-align: center;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  display: inline;
+  position: relative;
+  width: 25%;
+}
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+.img-rounded {
+  display: block;
+  width: 50%;
+  height: auto;
+  margin-bottom: 30px;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0px;
+  left: 200px;
+  right: 0;
+  height: 96%;
+  width: 50%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #F7D08A;
+}
+
+.container:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+}
+
+.panel {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: white;
+  background-color: #63B370;
+}
+
+.gallery img {
+  margin-right: 15px;
+  display: inline;
+  width: 50%;
+}
+
+.questions img {
+  float: left;
+  margin-right: 30px;
+}
+
+.survey {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.questions {
+  margin-right: 15px;
+  margin-bottom: 15px;
+  margin-left: 500px;
+}
+
+.results {
+  margin-bottom: 15px;
+  margin-top: 15px;
+  text-align: center;
+  background-color: #63B370;
+}
+
+.video iframe {
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 15px;
+}
+
+.skills {
+  text-align: center;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+.pacbutton {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  max-width: 500px;
+}
