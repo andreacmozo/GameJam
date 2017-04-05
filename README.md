@@ -6,7 +6,6 @@ Write a design document where you explain your project. You should clearly expla
 
 This website focuses on game design and game development of digital games, which includes a deeper understanding of technology like coding, graphics, animation, and design. This site applies to broader fields, mainly computer science education, technology accessibility to women and girls, and gaming industry. This website would essentially build a novice user in the game world to become immersed in the world of gaming and technology. It can be used as a resource for women and girls to build their knowledge of games and eventually create games to showcase their technical skills and showcase their final products on our website.  
 
-=======
 # Problem
 
 Entertainment Software Association’s Essential Facts About the Computer and Video Game Industry found that 44% of women are game players but only 12% of women make-up the gaming industry. Female game designers still do not have a voice in this mega billion dollar gaming industry. Our society needs more female game designers and developers to create different perspectives and tell different stories. It’s not only the gaming industry that needs to change, it’s all STEM related fields. Only 25% of women who were in the computing workforce in 2015 (NCWIT, By the Numbers), 5% Of African Americans and Latinos make up the Technology workforce in 2015 (Ethnic Diversity in Tech), and 1% of Hispanic women were in the computing workforce in 2015 (NCWIT, By the Numbers).
@@ -52,10 +51,10 @@ The scope of this project is large. The scope of the initial version of code Gam
 3. Structure P.A.C user profile - premium (August 2017)
 4. Structure game feedback system (September 2017)
 5. Map course structure (September 2017)
-5. Build website (August - October 2017)
-5. Beta date (October 2017)
-6. Iterate: make improvements based on user feedback (November 2017)
-7. Release Date: Version 1.0 (December 2017)
+6. Build website (August - October 2017)
+7. Beta date (October 2017)
+8. Iterate: make improvements based on user feedback (November 2017)
+9. Release Date: Version 1.0 (December 2017)
 
 # Functional and Content Specifications
 
@@ -72,6 +71,10 @@ The scope of this project is large. The scope of the initial version of code Gam
 ![Alt text](/assets/play_action.jpg)
 
 ![Alt text](/assets/anaylze.jpg)
+
+Comment: I really like the wiaframe of the main page. You ask readers essential questions that help them refine their understanding of what gaming is and who can be a gamer and lead them right into "P.A.C" button, not giving them a chance to get lost or lose interest on their way. It's very a very smart and effective way.
+
+![Alt text](/assets/wireframe_index.png)
 
 ![Alt text](/assets/anaylze_gamemechanics.jpg)
 
