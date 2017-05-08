@@ -28,13 +28,14 @@ h4 {
 }
 
 .btn {
-  background: #F13C20;
+  background: #FFA500;
   color: white;
   font-size: 20px;
 }
 
 .btn:hover {
-  color: #405681;
+  color: white;
+  background-color: #cef01f;
 }
 
 .btn-group1 {
@@ -51,6 +52,13 @@ h4 {
   margin-left: 15px;
   margin-right: 10px;
   font-family: 'Press Start 2P', cursive;
+}
+
+.btn-block {
+    display: block;
+    width: 40%;
+    margin-bottom: 50px;
+    margin-top: 25px;
 }
 
 .gallery {
@@ -139,7 +147,7 @@ h4 {
 }
 
 .video iframe {
-  float: left;
+  float: none;
   margin-right: 30px;
   margin-bottom: 15px;
 }
@@ -155,4 +163,34 @@ h4 {
   margin-top: 50px;
   text-align: center;
   max-width: 500px;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+.sidenav-item {
+    border-radius: 4px;
+    color: #00000;
+    display: block;
+    font-weight: 300;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+
+.box {
+  background-color: #d3d3d3;
+  padding: 30px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+}
+
+.input-group {
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
